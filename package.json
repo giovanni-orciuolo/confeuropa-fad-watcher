@@ -1,0 +1,12 @@
+{
+  "name": "confeuropa-fad-watcher",
+  "version": "1.0.0",
+  "description": "Watch Confeuropa FAD boomer courses",
+  "main": "index.js",
+  "author": "Giovanni Orciuolo <giovanni.orciuolo@overzoom.it>",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^19.4.0"
+  }
+}
