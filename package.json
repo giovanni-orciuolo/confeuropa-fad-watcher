@@ -7,6 +7,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "puppeteer": "^19.4.0"
   }
 }
